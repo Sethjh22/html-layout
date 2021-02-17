@@ -1,0 +1,48 @@
+body {
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+}
+header {
+    background-color: rgb(184, 181, 181) ;
+    height: 10vh;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.square {
+    background-color: rgb(62, 160, 251);
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+    
+}
+
+.big-box {
+    box-sizing: border-box;
+    height: 25vh;
+    width: 100%;
+    padding: 50px;
+}
+
+span {
+    text-align: center;
+    
+}
+.rectangle-1, .rectangle-2, .rectangle-3, .rectangle-4 {
+    height: 15vh;
+    width: 100%;
+}
+.rectangle-1{
+    background-color: rgb(62, 160, 251);
+}
+.rectangle-2 {
+    background-color: cyan;
+}
+.rectangle-3 {
+    background-color: rgb(226, 235, 99);
+}
+.rectangle-4 {
+    background-color: yellow;
+}
